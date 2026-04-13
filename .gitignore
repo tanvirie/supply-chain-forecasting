@@ -1,0 +1,10 @@
+# Data directory
+data/
+# Model outputs
+outputs/*.pkl
+outputs/*.h5
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
